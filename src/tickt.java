@@ -1,5 +1,5 @@
 
-public class Ram {
+public class tickt {
 
 	public static void main(String[] args)
 	{
